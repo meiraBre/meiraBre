@@ -8,34 +8,42 @@ Sou estudante de engenharia de software na Unicesumar e estou na busca por conhe
 
 - English Live First (projeto de inglês Paraná)
 
-- Bootcamp Fundamentos de IA para devs (em andamento)
+- Bootcamp Fundamentos de IA para devs (Santander em parceria com a DIO)
+
+- Coders academy (trilha digital de frontend - ADA)
+
+- AWS Cloud (Pros educação em parceria com a AWS)
 
 
 ## 💻Habilidades
-- Inglês: ██████████ 90%
-- Arquitetura de computadores: ████████ 70%
-- HTML: ████████ 70%
-- Redes de computadores: ██████ 60%
-- Javascript: █████ 50%
-- CSS: ████ 40%
+- HTML: ██████████ 90%
+- CSS: ████████ 70%
+- Algoritmos: ████████ 70%
+- Javascript: ██████ 60%
+- C: █████ 50%
+- python: ████ 40%
 
 
 ## 📝Meus estudos
 
-| Área | Modo|
+|Matérias da faculdade| Ano|
 |-------|-------|
-|Frontend|Livro |
-|Estrutura de dados, com C++|Projeto Ampliar, faculdade|
-|Algoritmos, com C++|Projeto Ampliar, faculdade|
-|Fundamentos de IA|Bootcamp da Santander e DIO|
-|Matemática aplicada à computação|Matéria da faculdade|
-|Go- projeto de vida|Matéria da faculdade|
+|Arquitetura e redes de computadores|2024|
+|Matemática aplicada a computação|2024|
+|Engenharia de software|2024|
+|Produção de conhecimento ciêntifico, tecnológico e disrupção|2024|
+|Algoritmos e lógica de programação|2024|
+|Linguagens e técnicas de programação|2024|
 
 
 ## 💕Soft skills
+(Meu primeiro emprego como atendente de telemarketing receptivo me fez desenvolver várias habilidades muito importantes para o mercado de trabalho, sou muito grata por essa oportunidade de evolução que esse trabalho me proporcionou)
 - Comunicação
-- Liderança
+- Empatia
+- Resolução de problemas
 - Gestão de tempo
+- Determinação
+- Dedicação
 - Criatividade
 - Proatividade
 
