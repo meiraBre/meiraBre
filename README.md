@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Conecte-se comigo</h2>
+<h2 align="left">Social Midias</h2>
 
 ###
 
