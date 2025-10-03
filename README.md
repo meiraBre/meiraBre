@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">QA | Software Engineering Student | Front-End Developer<br><br>Sou estudante de Engenharia de Software na Unicesumar e busco me destacar na área de tecnologia, construindo uma carreira sólida e consistente. <br> Atuei como estagiária de Quality Assurance na Compass UOL, concluindo com sucesso todos os projetos e desafios, com experiência em testes manuais e automatizados, análise de APIs e metodologias ágeis.<br>Também finalizei meu contrato como jovem aprendiz na área de atendimento receptivo, desenvolvendo habilidades de comunicação, empatia e organização.<br>Atualmente sou estagiária de QA na Bari Tecnologia, atuo junto ao time de desenvolvimento para garantir qualidade nos produtos e satisfação dos nossos clientes.</h4>
+<h4 align="left">QA | Software Engineering Student | AWS Certified <br><br>Sou estudante de Engenharia de Software na Unicesumar e busco me destacar na área de tecnologia, construindo uma carreira sólida e consistente. <br> Atuei como estagiária de Quality Assurance na Compass UOL, concluindo com sucesso todos os projetos e desafios, com experiência em testes manuais e automatizados, análise de APIs e metodologias ágeis.<br>Também finalizei meu contrato como jovem aprendiz na área de atendimento receptivo, desenvolvendo habilidades de comunicação, empatia e organização.<br>Atualmente sou estagiária de QA na Bari Tecnologia, atuo junto ao time de desenvolvimento para garantir qualidade nos produtos e satisfação dos nossos clientes.</h4>
 
 ###
 
